@@ -1,4 +1,4 @@
-#check EVM balance
+#check EVM balance from all available chains
 from web3 import Web3
 
 #RPC
